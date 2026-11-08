@@ -50,7 +50,7 @@ install_requires = [
     'googleapis-common-protos==1.5.2',
     'grpc-google-iam-v1==0.11.1',
     'grpcio==1.2.1',
-    'httplib2==0.10.3',
+    'httplib2==0.32.0',
     'ipython==5.3.0',
     'ipython-genutils==0.2.0',
     'macholib==1.8',
