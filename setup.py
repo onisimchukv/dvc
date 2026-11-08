@@ -83,7 +83,7 @@ install_requires = [
     'Pygments==2.2.0',
     'PyInstaller==3.2.1',
     'pyparsing==2.2.0',
-    'requests==2.13.0',
+    'requests==2.33.0',
     'rsa==3.4.2',
     'scandir==1.5',
     'simplegeneric==0.8.1',
