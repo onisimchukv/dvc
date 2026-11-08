@@ -78,7 +78,7 @@ install_requires = [
     'proto-google-cloud-vision-v1==0.90.3',
     'protobuf==3.2.0',
     'ptyprocess==0.5.1',
-    'pyasn1==0.2.3',
+    'pyasn1==0.6.5',
     'pyasn1-modules==0.0.8',
     'Pygments==2.2.0',
     'PyInstaller==3.2.1',
